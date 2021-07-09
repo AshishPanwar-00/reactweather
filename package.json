@@ -1,5 +1,6 @@
 {
   "name": "weatherreact",
+  "homepage": "http://AshishPanwar-00.github.io/reactweather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
